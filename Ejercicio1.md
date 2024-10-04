@@ -11,7 +11,7 @@
 ---
 ### 2. En esta captura te muestro como conecto el repositorio local con un repositorio remoto en GitHub.
 
-![imagen3](./IMG/conectar.PNG)
+![imagen3](./IMG/Conectar.PNG)
 
 ---
 ### 3. En esta captura te muesto como subo el repositorio local a GitHub.
